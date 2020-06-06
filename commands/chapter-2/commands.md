@@ -1,0 +1,3 @@
+- Search `podman` for images: `sudo podman search rhel`
+- Download an image using the pull commands: `sudo podman pull rhel`. This downloads and saves `rhel` image locally for future use
+- 
